@@ -16,7 +16,7 @@ public class WELLCOME_TO_ABC_TRAVELS {
 	private int userChoosenNumber;
 
 	public static void main(String[] args) throws FileNotFoundException {
-		
+		System.out.println("Hello Brooo!");
 		FileInputStream fin = new FileInputStream(
 				"C:\\Users\\Maruthi\\eclipse-workspace\\Example Core Java Project\\src\\abc.txt");
 		try {
